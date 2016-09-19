@@ -15,18 +15,18 @@ msgstr ""
 
 #: ../plugin/controllers/BouquetEditor.py:82
 msgid "one two three four unknown command"
-msgstr ""
+msgstr "eins zwei drei vier unbekannter Befehl"
 
 #: ../plugin/controllers/BouquetEditor.py:88
 #: ../plugin/controllers/BouquetEditor.py:149
 #: ../plugin/controllers/BouquetEditor.py:194
 msgid "No bouquet name given!"
-msgstr ""
+msgstr "Kein Bouqet Name angegeben!"
 
 #: ../plugin/controllers/BouquetEditor.py:118
 #, python-format
 msgid "Bouquet %s created."
-msgstr ""
+msgstr "Bouquet %s erstellt."
 
 #: ../plugin/controllers/BouquetEditor.py:120
 msgid "Get mutable list for new created bouquet failed!"
@@ -35,55 +35,55 @@ msgstr ""
 #: ../plugin/controllers/BouquetEditor.py:123
 #, python-format
 msgid "Bouquet %s already exists."
-msgstr ""
+msgstr "Bouquet %s existiert bereits"
 
 #: ../plugin/controllers/BouquetEditor.py:125
 #: ../plugin/controllers/BouquetEditor.py:435
 msgid "Bouquetlist is not editable!"
-msgstr ""
+msgstr "Bouqetliste ist nicht editierbar!"
 
 #: ../plugin/controllers/BouquetEditor.py:127
 msgid "Multi-Bouquet is not enabled!"
-msgstr ""
+msgstr "Multi-Bouquet ist nicht aktiviert!"
 
 #: ../plugin/controllers/BouquetEditor.py:133
 msgid "No provider given!"
-msgstr ""
+msgstr "Kein Anbieter angegeben!"
 
 #: ../plugin/controllers/BouquetEditor.py:180
 #, python-format
 msgid "Bouquet %s removed failed."
-msgstr ""
+msgstr "Bouqet %s entfernen fehlgeschlagen."
 
 #: ../plugin/controllers/BouquetEditor.py:182
 #, python-format
 msgid "Bouquet %s removed failed, sevicerefence or mutable list is not valid."
-msgstr ""
+msgstr "Bouqet %s entfernen fehlgeschlagen, Servicereference oder veränderbare Liste ist nicht gültig. "
 
 #: ../plugin/controllers/BouquetEditor.py:186
 #, python-format
 msgid "Bouquet %s deleted."
-msgstr ""
+msgstr "Bouquet %s gelöscht."
 
 #: ../plugin/controllers/BouquetEditor.py:188
 #, python-format
 msgid "Error: Bouquet %s could not deleted, OSError."
-msgstr ""
+msgstr "Fehler: Bouquet %s kann nicht gelöscht werden, OSError."
 
 #: ../plugin/controllers/BouquetEditor.py:204
 #: ../plugin/controllers/BouquetEditor.py:261
 msgid "No position given!"
-msgstr ""
+msgstr "Keine Position angegeben"
 
 #: ../plugin/controllers/BouquetEditor.py:211
 #, python-format
 msgid "Bouquet %s moved."
-msgstr ""
+msgstr "Bouquet %s verschoben."
 
 #: ../plugin/controllers/BouquetEditor.py:213
 #, python-format
 msgid "Bouquet %s can not be moved."
-msgstr ""
+msgstr "Bouquet %s kann nicht verschoben werden."
 
 #: ../plugin/controllers/BouquetEditor.py:219
 #: ../plugin/controllers/BouquetEditor.py:249
@@ -91,7 +91,7 @@ msgstr ""
 #: ../plugin/controllers/BouquetEditor.py:309
 #: ../plugin/controllers/BouquetEditor.py:455
 msgid "No bouquet given!"
-msgstr ""
+msgstr "Kein Bouquet angegeben"
 
 #: ../plugin/controllers/BouquetEditor.py:225
 #: ../plugin/controllers/BouquetEditor.py:255
@@ -101,77 +101,77 @@ msgstr ""
 #: ../plugin/controllers/BouquetEditor.py:461
 #: ../plugin/controllers/BouquetEditor.py:498
 msgid "No service given!"
-msgstr ""
+msgstr "Kein Dienst angegeben"
 
 #: ../plugin/controllers/BouquetEditor.py:234
 #, python-format
 msgid "Service %s removed."
-msgstr ""
+msgstr "Dienst %s gelöscht."
 
 #: ../plugin/controllers/BouquetEditor.py:242
 #, python-format
 msgid "Service %s removed from bouquet %s."
-msgstr ""
+msgstr "Dienst %s von Bouquet %s gelöscht."
 
 #: ../plugin/controllers/BouquetEditor.py:243
 #, python-format
 msgid "Service %s can not be removed."
-msgstr ""
+msgstr "Dienst % kann nicht entfernt werden"
 
 #: ../plugin/controllers/BouquetEditor.py:268
 #, python-format
 msgid "Service %s moved."
-msgstr ""
+msgstr "Dienst %s verschoben."
 
 #: ../plugin/controllers/BouquetEditor.py:269
 msgid "Service can not be moved."
-msgstr ""
+msgstr "Dienst kann nicht verschoben werden"
 
 #: ../plugin/controllers/BouquetEditor.py:299
 #, python-format
 msgid "Service %s added."
-msgstr ""
+msgstr "Dienst %s hinzugefügt."
 
 #: ../plugin/controllers/BouquetEditor.py:302
 #, python-format
 msgid "Service %s already exists in bouquet %s."
-msgstr ""
+msgstr "Dienst %s existiert bereits in Bouquet %s."
 
 #: ../plugin/controllers/BouquetEditor.py:303
 msgid "This service can not be added."
-msgstr ""
+msgstr "Dieser Dienst kann nicht hinzugefügt werden."
 
 #: ../plugin/controllers/BouquetEditor.py:315
 msgid "No marker-name given!"
-msgstr ""
+msgstr "Keine Marker-Bezeichnung angegeben!"
 
 #: ../plugin/controllers/BouquetEditor.py:329
 msgid "Marker added."
-msgstr ""
+msgstr "Marker hinzugefügt"
 
 #: ../plugin/controllers/BouquetEditor.py:331
 msgid "Internal error!"
-msgstr ""
+msgstr "Interner Fehler"
 
 #: ../plugin/controllers/BouquetEditor.py:345
 msgid "No new servicename given!"
-msgstr ""
+msgstr "Kein neuer Dienstname angegeben!"
 
 #: ../plugin/controllers/BouquetEditor.py:369
 msgid "Bouquet renamed successfully."
-msgstr ""
+msgstr "Bouquet erfolgreich umbenannt."
 
 #: ../plugin/controllers/BouquetEditor.py:385
 msgid "Service renamed successfully."
-msgstr ""
+msgstr "Dienst erfolgreich umbenannt"
 
 #: ../plugin/controllers/BouquetEditor.py:386
 msgid "Service can not be renamed."
-msgstr ""
+msgstr "Dienst kann icht umbenannt werden."
 
 #: ../plugin/controllers/BouquetEditor.py:400
 msgid "No current service given!"
-msgstr ""
+msgstr "Kein aktueller Dienst angegeben!"
 
 #: ../plugin/controllers/BouquetEditor.py:431
 msgid "Get mutable list for new created alternative failed!"
@@ -197,41 +197,41 @@ msgstr ""
 
 #: ../plugin/controllers/BouquetEditor.py:492
 msgid "Parent Control is not activated."
-msgstr ""
+msgstr "Parent Control ist nicht aktiviert."
 
 #: ../plugin/controllers/BouquetEditor.py:505
 msgid "No Parent Control Setup Pin given!"
-msgstr ""
+msgstr "Pin für Parent Control ist nicht angegeben!"
 
 #: ../plugin/controllers/BouquetEditor.py:509
 #: ../plugin/controllers/BouquetEditor.py:511
 msgid "Parent Control Setup Pin is wrong!"
-msgstr ""
+msgstr "Parent Control Setup Pin ist falsch"
 
 #: ../plugin/controllers/BouquetEditor.py:526
 #, python-format
 msgid "Service %s is locked."
-msgstr ""
+msgstr "Dienst %s ist gesperrt."
 
 #: ../plugin/controllers/BouquetEditor.py:528
 #, python-format
 msgid "Bouquet %s is locked."
-msgstr ""
+msgstr "Bouquet %s ist gesperrt."
 
 #: ../plugin/controllers/BouquetEditor.py:530
 #, python-format
 msgid "%s %s is locked."
-msgstr ""
+msgstr "%s %s ist gesperrt."
 
 #: ../plugin/controllers/BouquetEditor.py:534
 #, python-format
 msgid "Service %s is unlocked."
-msgstr ""
+msgstr "Dienst %s ist entsperrt."
 
 #: ../plugin/controllers/BouquetEditor.py:536
 #, python-format
 msgid "Bouquet %s is unlocked."
-msgstr ""
+msgstr "Bouquet %s ist entsperrt."
 
 #: ../plugin/controllers/BouquetEditor.py:573
 #, python-format
@@ -244,17 +244,17 @@ msgstr ""
 
 #: ../plugin/controllers/BouquetEditor.py:630
 msgid "Bouquet-settings were restored successfully"
-msgstr ""
+msgstr "Bouquet-Einstellungen wurden erfolgreich wiederhergestellt"
 
 #: ../plugin/controllers/BouquetEditor.py:632
 #, python-format
 msgid "Error, %s was not created with WebBouquetEditor..."
-msgstr ""
+msgstr "Fehler, %s wurde nicht mit WebBouquetEditor erstellt..."
 
 #: ../plugin/controllers/BouquetEditor.py:634
 #, python-format
 msgid "Error, %s does not exists, restore is not possible..."
-msgstr ""
+msgstr "Fehler, %s existiert nicht, wiederherstellen nicht möglich..."
 
 #: ../plugin/controllers/base.py:221 ../plugin/local.py:181
 #: ../plugin/local.py:325
@@ -376,12 +376,12 @@ msgstr "Kein entsprechender Timer gefunden"
 #: ../plugin/controllers/models/timers.py:317
 #, python-format
 msgid "Timer '%s' not enabled while Conflict"
-msgstr ""
+msgstr "Timer '%s' wegen Konflikt nicht aktiviert"
 
 #: ../plugin/controllers/models/timers.py:323
 #, python-format
 msgid "Timer '%s' already exists!"
-msgstr ""
+msgstr "Timer '%s' existiert bereits!"
 
 #: ../plugin/controllers/models/timers.py:329
 #, python-format
@@ -442,8 +442,10 @@ msgstr "SleepTimer deaktiviert"
 
 #: ../plugin/controllers/models/timers.py:640
 #: ../plugin/controllers/models/timers.py:667
+#: ../plugin/controllers/models/timers.py:695
+#: ../plugin/controllers/models/timers.py:776
 msgid "SleepTimer error"
-msgstr ""
+msgstr "SleepTimer Fehler"
 
 #: ../plugin/controllers/models/timers.py:679
 msgid "ERROR: Cannot set SleepTimer while device is in Standby-Mode"
@@ -462,18 +464,13 @@ msgstr "SleepTimer wurde deaktiviert"
 msgid "Sleeptimer set to %d minutes"
 msgstr "SleepTimer eingestellt auf %d Minuten"
 
-#: ../plugin/controllers/models/timers.py:695
-#: ../plugin/controllers/models/timers.py:776
-msgid "SleepTimer Error"
-msgstr ""
-
 #: ../plugin/controllers/models/timers.py:804
 msgid "Error parsing vps.xml"
-msgstr ""
+msgstr "Fehler beim Parsen von vps.xml"
 
 #: ../plugin/controllers/models/timers.py:809
 msgid "VPS plugin not found"
-msgstr ""
+msgstr "VPS Erweiterung nicht gefunden"
 
 #: ../plugin/controllers/web.py:63
 #, python-format
@@ -502,7 +499,7 @@ msgstr "Der Parameter 'command' muss eine Zahl sein"
 #: ../plugin/controllers/web.py:304
 #, python-format
 msgid "type %s is not a number"
-msgstr "der Typ %s ist keine Zahl"
+msgstr "Der Typ %s ist keine Zahl"
 
 #: ../plugin/local.py:5
 msgid "Mo"
@@ -774,11 +771,11 @@ msgstr "Soll die Aufnahme gelöscht werden"
 
 #: ../plugin/local.py:76
 msgid "Delete Movie"
-msgstr ""
+msgstr "Film löschen"
 
 #: ../plugin/local.py:77
 msgid "Really delete the movie"
-msgstr ""
+msgstr "Film wirklich löschen"
 
 #: ../plugin/local.py:78
 msgid "Delete Timer"
@@ -838,7 +835,7 @@ msgstr "Timer aktivieren"
 
 #: ../plugin/local.py:92
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 #: ../plugin/local.py:93 ../plugin/local.py:353
 msgid "End"
@@ -1114,7 +1111,7 @@ msgstr "Aufnahme umbenennen"
 
 #: ../plugin/local.py:164
 msgid "Really rename the recording"
-msgstr ""
+msgstr "Aufnahme wirklich umbenennen"
 
 #: ../plugin/local.py:165
 msgid "Repeated"
@@ -1159,7 +1156,7 @@ msgstr "Durchsuche IMDb"
 
 #: ../plugin/local.py:175
 msgid "Search KinoPoisk"
-msgstr ""
+msgstr "Durchsuche KinoPoisk"
 
 #: ../plugin/local.py:176
 msgid "seconds"
@@ -1315,7 +1312,7 @@ msgstr ""
 
 #: ../plugin/local.py:215
 msgid "Tuner Bit Error Rate BER"
-msgstr "Tuner-Bitfehlerhäufigkeit BER"
+msgstr "Tuner-Bitfehlerrate BER"
 
 #: ../plugin/local.py:216
 msgid "Tuner Number"
